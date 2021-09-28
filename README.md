@@ -29,6 +29,7 @@ Another point to note that the failed orange line stays roughly the same with Ma
 
 ### Analysis of Outcomes Based on Goals
 
+Looking at the "Outcomes Based on Goal" we can come up with an understanding of which funding goal to choose for our campaign. The chart displays percentage of outcomes of theater plays based on thier choosen goals within the given ranges. We notice that as the goal increases the campaign success rate decreases, however not consistently. After $25000 the Sum of Percentage Successful line starts to increase again and drastically come back down after $40000. With these huge up and down swings could suggest that has not been much data within those ranges. Its better to have a bigger sample pool to use for our analysis. Therefore after we could say $15000 goal the odds of failure starts to increase.   
 
 **image (Outcomes_vs_Goals.png)
 
@@ -48,6 +49,8 @@ As I was working through the module, I came across an issue displaying my charts
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
+
+Louise should consider making her goal less than $15000. 
 
 - What are some limitations of this dataset?
 
