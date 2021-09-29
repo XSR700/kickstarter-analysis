@@ -27,7 +27,7 @@ Another point to note is that the line of failed outcomes stays roughly the same
 
 ### Analysis of Outcomes Based on Goals
 
-Looking at the "Outcomes Based on Goal" we can come up with an understanding of which funding goal to choose for our campaign. The chart displays percentage of outcomes of theater plays based on thier choosen goals within the given ranges. We notice that as the goal increases the campaign success rate decreases, however not consistently. After $25000 the Sum of Percentage Successful line starts to increase again and drastically come back down after $40000. With these huge up and down swings could suggest that has not been much data within those ranges. Its better to have a bigger sample pool to use for our analysis. Therefore after we could say $15000 goal the odds of failure starts to increase.   
+Looking at the "Outcomes Based on Goal" chart we can come up with an understanding of which funding goal to choose for our campaign. The chart displays percentage of outcomes of theater plays based on thier choosen goals within the given ranges. We notice that as the goal increases the campaign success rate decreases, however not consistently. After $25000 the Sum of Percentage Successful line starts to increase again and drastically come back down after $40000. With these huge up and down swings could suggest that there is not much data within those ranges. Its better to have a bigger sample pool to use for our analysis. Therefore after we could say after $15000 goal the odds of failure starts to increase.   
 
 ![Outcomes_vs_Goals](https://github.com/XSR700/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
@@ -45,13 +45,17 @@ As I was working through the module, I came across an issue displaying my charts
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-After our analysis we can conclude that to be successful the time of year to launch a campaign does matter. We see that the most amount of sucessful campaign launched in May. In practicality it makes sense. People tend to attend more events when springs and summer roll around, threfore bringing more attandace for theatrical plays. On these seasons people are in a better mood and more likely to pledge. These factors contribute to the success rate. 
+After our analysis we can conclude that to be successful, time of the year to launch a campaign does matter. We see that May had the most amount of successfull campaigns. In practicality it makes sense. People tend to attend more events when springs and summer roll around, threfore bringing more attandace for theatrical plays. On these seasons people are in a better mood and more likely to pledge. These factors contribute to the success rate. 
 
-nNonetheless there is a caviat to launching a camaign in the summer. May, June, and July had the most ammount of campaigs launched. This means more cmpetition for Louise. While this could deminish her chances we still see the the failed outcomes line is not effected in a major way on any month. Louise chances of failure are slightly higher in the summer, but chances of success are still greater in May, June, and July compared to any other month. After those months the successful outcomes quickly dropp off. Louise should pick May or June to start her campaign. 
+nNonetheless there is a caviat to launching a camapign in the summer. May, June, and July had the most ammount of campaigns launched total. This means more cmpetition for Louise. While this could deminish her chances we still see the the failed outcomes line is not effected in a major way on any month. Louise chances of failure are slightly higher in the summer, but chances of success are reletively much greater in May, June, and July compared to any other month. After those months the successful outcomes quickly drop off. Louise should pick May or June to start her campaign. 
 
-More of other campaigns could lead to more competition for Louise. 
 
 - What can you conclude about the Outcomes based on Goals?
+
+After the analsysis of the "Outcomes Based on Goals" chart we can suggest Louise which budget to avoid. Louise mentioned that she needs more than $10000 for her play. This does is not an comftrable situation since the precentage of successful line starts to fall after $10000 to $14999 range. Louise does have the option to set her budget somehwere higher than $35000 and before $40000, but this is a risky option. While the chart shows that 67% of plays with a goal between $35000 to $39999 were successful, this does not mean Louise odds will hold up the same. The count of plays with a goal greater than  $25000 drastically drop off and create extreme dips and spikes in the chart. 
+
+In conclusion Louise should consider making her goal less than $15000, because the chance of success will be in her favor. However if $15000 will not be enough to create a her play than she can consider setting a goal above $35000 and less than $40000. The Success percentage is higher within this range, but this will be a reisky option because there is not enough data above $30000 range to conclude this tendency to be true. 
+
 
 Louise should consider making her goal less than $15000. 
 
