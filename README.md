@@ -18,22 +18,18 @@ I aquired the data of 4113 past and present crowdfunded projects from Kickstarte
 
 ### Analysis of Outcomes Based on Launch Date
 
-Examining the "Theater Outcomes Based on Launch Date" chart below we can conclude which month is best to start a campaign. The chart displays the outcome of successful, failed, and canceled theater plays from January to December. The successful line spikes during May which means this month had the most successful campaings. Out of the grand total 111 campaigns were sucessfful (67%). However the grand total in May was the highest with 166 total campaigns. This also means that we are more likely to see more campaings being created during this month. More of other campaigns could lead to more competition for Louise. 
+Examining the "Theater Outcomes Based on Launch Date" chart below we can compare which month of the year effects a campaign. The chart displays the outcomes of successful, failed, and canceled campaigns in the theater category from January to December. The successful line spikes during May which means this month expriences the most of successful campaings. 111 out of 166 (67%) campaigns were sucessfful. However the grand total in May was the highest with 166 total campaigns. This also means that we are more likely to see more campaings being launched around May.
 
-Another point to note that the failed orange line stays roughly the same with May, June, July, and August at almost the same outcomes. 
+Another point to note is that the line of failed outcomes stays roughly the same throughtout the chart. May, June, July, and August have almost the same number of failed outcomes. This indicates that the spike of successful campaings in May had little to now effect on the rise of failed campaings. 
 
 ![Theater_Outcomes_vs_Launch_Date](https://github.com/XSR700/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch_Date.png)
-
-
-**outcomes of theater > plays show %70 success rate in June
 
 
 ### Analysis of Outcomes Based on Goals
 
 Looking at the "Outcomes Based on Goal" we can come up with an understanding of which funding goal to choose for our campaign. The chart displays percentage of outcomes of theater plays based on thier choosen goals within the given ranges. We notice that as the goal increases the campaign success rate decreases, however not consistently. After $25000 the Sum of Percentage Successful line starts to increase again and drastically come back down after $40000. With these huge up and down swings could suggest that has not been much data within those ranges. Its better to have a bigger sample pool to use for our analysis. Therefore after we could say $15000 goal the odds of failure starts to increase.   
 
-**image (Outcomes_vs_Goals.png)
-
+![Outcomes_vs_Goals](https://github.com/XSR700/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -48,6 +44,12 @@ As I was working through the module, I came across an issue displaying my charts
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+After our analysis we can conclude that to be successful the time of year to launch a campaign does matter. We see that the most amount of sucessful campaign launched in May. In practicality it makes sense. People tend to attend more events when springs and summer roll around, threfore bringing more attandace for theatrical plays. On these seasons people are in a better mood and more likely to pledge. These factors contribute to the success rate. 
+
+nNonetheless there is a caviat to launching a camaign in the summer. May, June, and July had the most ammount of campaigs launched. This means more cmpetition for Louise. While this could deminish her chances we still see the the failed outcomes line is not effected in a major way on any month. Louise chances of failure are slightly higher in the summer, but chances of success are still greater in May, June, and July compared to any other month. After those months the successful outcomes quickly dropp off. Louise should pick May or June to start her campaign. 
+
+More of other campaigns could lead to more competition for Louise. 
 
 - What can you conclude about the Outcomes based on Goals?
 
