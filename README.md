@@ -56,9 +56,12 @@ After the analsysis of the "Outcomes Based on Goals" chart we can suggest Louise
 
 In conclusion Louise should consider making her goal less than $15000, because the chance of success will be in her favor. However if $15000 will not be enough to create a her play than she can consider setting a goal above $35000 and less than $40000. The Success percentage is higher within this range, but this will be a reisky option because there is not enough data above $30000 range to conclude this tendency to be true. 
 
-
-Louise should consider making her goal less than $15000. 
-
 - What are some limitations of this dataset?
 
+One of the limitations from this datast is currency. Eventhough the "goal" and "pledged" collumns are converted to US dollars the value of each currency fluctuated differently throughout all the countries. If the US dollar drops value this year while Louise makes her budget and the British pound increase, this will illustrate a false narrative of how much people from Britan are will to pledge. In addition the expected rise in inflation over the past years may skew the true reasonable budget lower than what it should be. 
+
+
 - What are some other possible tables and/or graphs that we could create?
+
+The campaign date created and deadlines varied accross categories. We could create a graph to that shows which durations of a campaign resulted in most success. To do this we could take the differance of date created and deadlines. Then plot the duration by months on the X axis with pecentage on the Y axis and display the lines of successful outcomes and failed outcomes.   
+
