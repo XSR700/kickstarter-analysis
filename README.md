@@ -22,6 +22,7 @@ Examining the "Theater Outcomes Based on Launch Date" chart below we can conclud
 
 Another point to note that the failed orange line stays roughly the same with May, June, July, and August at almost the same outcomes. 
 
+![Theater_Outcomes_vs_Launch_Date](path/to/Theater_Outcomes_vs_Launch_Date.png)
 **image here (Theater_Outcomes_vs_Launch_Date.png)
 
 **outcomes of theater > plays show %70 success rate in June
