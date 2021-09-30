@@ -58,8 +58,11 @@ In conclusion, Louise should consider making her goal less than $15000, because 
 
 A limitation of this dataset is currency. Even though the "goal" and "pledged" columns are converted to US dollars, the value of each currency fluctuated differently throughout all the countries. For example, If the US dollar drops value this year while Louise makes her budget and the British pound increase, this will illustrate a false narrative of how much people from Britain are willing to pledge. In addition, the expected rise in inflation over the past years may skew the truly reasonable budget lower than what it should be. 
 
+Another limitation from our Kickstarter dataset is that there could be pre-disposed factors that drove a campaign to be successful. The data cant display if a certain campaign had an equal chance of success from the start. We can agree that some campaigns received drastically more viewership than others. For example, a publisher with a large social media following can direct a link to a campaign which will then tend to receive more pledges. This would be important information Louise should consider from these analyses.     
 
 - What are some other possible tables and/or graphs that we could create?
 
-The campaign date created and deadlines varied across categories. We could create a graph that shows which durations of a campaign resulted in the most success. To do this we could first take the difference of dates created and deadlines. Then create a pivot table to display campaign length among plays. Then plot the duration by months on the X-axis with percentage on the Y-axis and display the lines of successful outcomes and failed outcomes.   
+The campaign date created and deadlines varied across categories. We could create a graph that shows which durations of a campaign resulted in the most success. To do this we could first take the difference of dates created and deadlines. Then create a pivot table to display campaign length among plays. Then plot the duration by months on the X-axis with percentage on the Y-axis and display the lines of successful outcomes and failed outcomes. 
+
+We can also create a table of Backer Count column among all the plays and help Louise understand how many backers she should attempt to get while promoting her play. We can create a pivot table of only successful plays and display the values of their backer count. Then take the average of all the counts and present the findings to Louise. 
 
