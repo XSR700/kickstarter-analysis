@@ -56,7 +56,7 @@ In conclusion, Louise should consider making her goal less than $15000, because 
 
 - What are some limitations of this dataset?
 
-One of the limitations of this dataset is currency. Even though the "goal" and "pledged" columns are converted to US dollars, the value of each currency fluctuated differently throughout all the countries. For example, If the US dollar drops value this year while Louise makes her budget and the British pound increase, this will illustrate a false narrative of how much people from Britain are willing to pledge. In addition, the expected rise in inflation over the past years may skew the truly reasonable budget lower than what it should be. 
+A limitation of this dataset is currency. Even though the "goal" and "pledged" columns are converted to US dollars, the value of each currency fluctuated differently throughout all the countries. For example, If the US dollar drops value this year while Louise makes her budget and the British pound increase, this will illustrate a false narrative of how much people from Britain are willing to pledge. In addition, the expected rise in inflation over the past years may skew the truly reasonable budget lower than what it should be. 
 
 
 - What are some other possible tables and/or graphs that we could create?
